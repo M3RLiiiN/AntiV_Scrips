@@ -1,0 +1,17 @@
+execute toggle nameprotect off
+execute toggle streammode off
+
+pause 100
+
+message  .
+message  .
+message  .
+message  .
+message  .
+message  .
+message  .
+message  .
+message  .
+
+message §rMode §4Stream §rausgeschalten
+message §rMade By §1Stine2009

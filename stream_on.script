@@ -1,0 +1,18 @@
+execute toggle nameprotect on
+execute toggle streammode on
+
+pause 100
+
+message  .
+message  .
+message  .
+message  .
+message  .
+message  .
+message  .
+message  .
+message  .
+
+
+message §rMode §4Stream §rangeschalten
+message §rMade By §1Stine2009

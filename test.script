@@ -1,0 +1,7 @@
+execute toggle
+
+say test
+
+pause 1
+
+message t
