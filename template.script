@@ -1,0 +1,4 @@
+execute <A command without #>
+say <Text in chat>
+pause <tie in millisec>
+message <text in a private message>
